@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35208.52
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EJERCICIO_2.1_2.2_NAVAS", "EJERCICIO_2.1_2.2_NAVAS.csproj", "{59B9E32C-5126-4FE7-A198-CB08EA34E130}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{59B9E32C-5126-4FE7-A198-CB08EA34E130}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59B9E32C-5126-4FE7-A198-CB08EA34E130}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59B9E32C-5126-4FE7-A198-CB08EA34E130}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59B9E32C-5126-4FE7-A198-CB08EA34E130}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D367CB4-78E5-48FA-B24D-8186159BF6FD}
+	EndGlobalSection
+EndGlobal
